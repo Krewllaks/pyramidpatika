@@ -1,0 +1,2 @@
+# pyramidpatika
+Patika piramit ödevi
